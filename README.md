@@ -3,4 +3,4 @@ First task of Artificial Intelligence lecture
 
 Genetic Algorithm
 
-![Genetic Algortihm](formula.png)
+![Genetic Algortihm](formula.PNG)
