@@ -3,6 +3,6 @@ First task of Artificial Intelligence lecture
 
 Genetic Algorithm
 
-> The formula's :
+> The formula :
 
 ![Genetic Algortihm](formula.PNG)
