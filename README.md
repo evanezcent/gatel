@@ -1,4 +1,4 @@
-# gatel
+# gatel (GA Tel-U)
 First task of Artificial Intelligence lecture
 
 Genetic Algorithm
